@@ -1,0 +1,2 @@
+C:\Users\isamu_000\Documents\ClientTest\Protocol\Protocol.csproj;x86
+C:\Users\isamu_000\Documents\ClientTest\SocketThingy\SocketThingy.csproj;x86

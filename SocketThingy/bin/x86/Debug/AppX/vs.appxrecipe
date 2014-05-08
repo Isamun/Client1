@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CAKDE</Machine>
+    <WindowsUser>isamu_000</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>437b9742-8925-4f5c-a8ec-bbb1c4c67252</PackageIdentityName>
+    <RegisteredManifestChecksum>8B0368BB5533FCF5B20D20E2D36A591B42910762BECE1544B3C9D8364538CF86</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>437b9742-8925-4f5c-a8ec-bbb1c4c67252_1.1.0.0_x86__bxnp3zth7d4zm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>437b9742-8925-4f5c-a8ec-bbb1c4c67252_bxnp3zth7d4zm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>437b9742-8925-4f5c-a8ec-bbb1c4c67252</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=AkerMann</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-07T20:59:16.706</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\bin\x86\Debug\SocketThingy.exe">
+      <PackagePath>SocketThingy.exe</PackagePath>
+      <Modified>2014-05-07T20:59:16.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\packages\Newtonsoft.Json.6.0.1\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-04-15T13:22:51.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\Protocol\bin\x86\Debug\Protocol.dll">
+      <PackagePath>Protocol.dll</PackagePath>
+      <Modified>2014-05-06T16:05:53.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T13:22:50.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T13:22:50.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T13:22:50.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T13:22:51.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\Config.txt">
+      <PackagePath>Config.txt</PackagePath>
+      <Modified>2014-05-06T10:50:34.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-06T14:31:28.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\bin\x86\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-05-06T14:31:28.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-05-06T14:31:28.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\bin\x86\Debug\SequencePage.xbf">
+      <PackagePath>SequencePage.xbf</PackagePath>
+      <Modified>2014-05-06T14:31:28.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\ClientTest\SocketThingy\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-07T20:50:54.457</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

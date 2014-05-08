@@ -1,0 +1,2 @@
+C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\Protocol\Protocol.csproj;neutral
+C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\SocketThingy.csproj;neutral

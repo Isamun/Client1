@@ -1,0 +1,1 @@
+C:\Users\isamu_000\Documents\GitHub\TheSocketThing\SocketThingyTest\obj\x86\Debug\SocketThingyTest.csprojResolveAssemblyReference.cache

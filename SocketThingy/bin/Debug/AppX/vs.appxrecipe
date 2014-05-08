@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CAKDE</Machine>
+    <WindowsUser>isamu_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>437b9742-8925-4f5c-a8ec-bbb1c4c67252</PackageIdentityName>
+    <RegisteredManifestChecksum>593B188BF244A31A44A5AB2351C307EE0512D8260DA3043F68AEDC8A1EAA2E1C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>437b9742-8925-4f5c-a8ec-bbb1c4c67252_1.1.0.0_neutral__bxnp3zth7d4zm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>437b9742-8925-4f5c-a8ec-bbb1c4c67252_bxnp3zth7d4zm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>437b9742-8925-4f5c-a8ec-bbb1c4c67252</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=AkerMann</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-06T14:15:29.447</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\bin\Debug\SocketThingy.exe">
+      <PackagePath>SocketThingy.exe</PackagePath>
+      <Modified>2014-05-06T14:15:29.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\packages\Newtonsoft.Json.6.0.1\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-04-15T13:22:51.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\Protocol\bin\Debug\Protocol.dll">
+      <PackagePath>Protocol.dll</PackagePath>
+      <Modified>2014-05-05T21:22:17.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T13:22:50.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T13:22:50.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T13:22:50.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-15T13:22:51.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\Config.txt">
+      <PackagePath>Config.txt</PackagePath>
+      <Modified>2014-05-06T10:50:34.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-05T21:22:20.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-05-05T21:22:20.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-05-05T21:22:20.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\bin\Debug\SequencePage.xbf">
+      <PackagePath>SequencePage.xbf</PackagePath>
+      <Modified>2014-05-05T21:22:20.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\isamu_000\Documents\AkerProsjekt\Metro\SecondTry\SocketThingy2\SocketThingy\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-06T13:14:53.818</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
